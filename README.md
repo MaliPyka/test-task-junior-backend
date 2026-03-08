@@ -21,7 +21,7 @@ cd <project_dir>
 # База данных
 POSTGRES_DB=test_task_db
 POSTGRES_USER=test_user
-POSTGRES_PASSWORD=super_secret_password
+POSTGRES_PASSWORD=password
 POSTGRES_HOST=db
 POSTGRES_PORT=5432
 
